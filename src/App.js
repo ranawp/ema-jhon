@@ -6,7 +6,7 @@ import Header from './Components/Shared/Header/Header';
 function App() {
   return (
     <div>
-      <Header></Header>
+      {/* <Header></Header> */}
       <Shop></Shop>
     </div>
   );
